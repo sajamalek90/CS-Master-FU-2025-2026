@@ -1,5 +1,6 @@
 # CS Master FU 2025/2026 Courses:-
 1- Seminar (GN 601) : 1h (إجباري) - أ.د/ شيرين طايع
+  -
   - No lectures, only Paper  
 
 2- Basic of Scientific Research (GN 602) : 2h (إجباري) - د/ اسراء الحريري
@@ -8,8 +9,8 @@
   - 
 
 3- Advanced Operating Systems (CS 604) : 3h (إجباري) - د/ شيرين أحمد
+  - 
   - Presentation
-  -
   -
 
 4- Advanced Database Systems (IS 602) : 3h (اختياري) - د/ اسراء رسلان
