@@ -28,6 +28,7 @@
   - Final (60 points)
 
 6- Data Mining Algorithms (CS 614) : 3h (اختياري) - د/ محمد فراج
+  -
   - Lectures
   - Tasks
   - Project
